@@ -31,7 +31,7 @@ Once the user has successfully logged in they will be taken to the menu page i.e
 Further it has multiple containers with the images of various food items with buttons to add them to cart. If a user clicks on logout their session ends and they're redirected to the login page.
 If a user clicks on the **Add to Cart** button a value is passed to ***addToCart.jsp*** this program adds the item to cart while the user is still on the menu page. A user can add multiple items to their cart.
 
-![A screenshot of the Welcome page](screen_shots/2019-05-30%2013.02.58.gif)
+
 
 ### Cart Page
 When the user clicks on **Cart** button on the navigation bar they're taken to ***cart.jsp*** where the added items are shown to the user.
