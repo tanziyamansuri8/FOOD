@@ -204,7 +204,7 @@
 </div><br><br>
 
 <footer class="container-fluid text-center">
-  <p>Designed and Developed by Ishita Mehta</p>  
+  <p>Designed and Developed by Tanziya Mansuri</p>  
   
 </footer>
 </div>
